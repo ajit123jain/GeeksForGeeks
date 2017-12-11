@@ -1,3 +1,3 @@
 # GeeksForGeeks
-Data Structure Preparation for Placements
-Collection of Datastructure and algorithm Questions.
+Collection of Datastructure and Algorithm Questions.
+## One Question Per Day
