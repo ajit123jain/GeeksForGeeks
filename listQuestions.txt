@@ -7,4 +7,7 @@
 7.Insert in Linkedlist and Delete 
 8.Find Loop in Likedlist  using HashSer and Floyd Cycle Loop
 9.LinkedList Rotate
-10.
+10.Intersection point of two Linked Lists.
+11.Segregate even and odd nodes in a Linked List
+12.Reverse a linked list
+13.Function to check if a singly linked list is palindrome
