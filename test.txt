@@ -3,3 +3,43 @@
 3.Current Company Experience
 
 
+
+1.Arrays            Done 
+2.LinkedList        Done 
+3.Strings Questions  1.30 Hours 
+3.BST               Done 1/2 
+4.Graphs            1.5 hours
+5.Queues            45 Minutes 
+6.Stacks            45 Minutes      
+7.Sorting      
+
+                       2 hours
+1.Greddy Algorithms    
+2.Divide and Conquer
+3.Back Tracking 
+4.Dynamica Programming
+5.
+
+
+Projects                    1 Hours 
+1.Search Engine             
+2.Projectile 
+3.Online Shopping WebSite 
+4.Buddy Chats
+5.
+
+                  1 Hours 
+Selection Sort     
+Bubble Sort
+Merge Sort 
+Quick Sort 
+Insertion Sort 
+Binary Sort 
+
+
+Panagram : all 26 character should be there
+Anagram : 2 String having same frequesncy of letter 
+
+
+http://bigocheatsheet.com/
+
